@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://lingao.ca
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/lin-gao-53b01b29 
+linkedin: lin-gao-53b01b29 
 # youtube: myyoutube
 # spotify: myspotify
 github: gauss1986
