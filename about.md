@@ -4,37 +4,20 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lin Gao is a PhD student in the group of <a href="http://arrow.utias.utoronto.ca/~pbn/">Computational Modeling and Design Optimization Under Uncertainty</a> at University of Toronto <a href="http://www.utias.utoronto.ca/">Institute for Aerospace Studies</a>.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Six years of academic training made him an experienced algorithm researcher and seasoned programmer in Matlab/C++/R/Python. With some creativity, he made some interesting journey in quantitative finance and anti-fraud.</p>
+
+<p>Lin is interested in any job involving real-life big data. Typically these job has the title of quantitative researcher, machine learning researcher or data scientist. It would be better if the outcome of the job has direct business impact.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+        <li>Matlab</li>
+        <li>C++</li>
+        <li>R</li>
+        <li>Python (Scikit-learn, H2o)</li>
+        <li>SQL</li>
 </ul>
 
 <h2>Projects</h2>
