@@ -25,7 +25,7 @@ layout: page
 <ul>
 	<li>PhD project: <a href="https://lingao.ca/phd/">uncertainty quantification for linear/nonlinear stochastic PDE/ODE</a></li>
         <li>Intern project: information theoretical based feature engineering for categorical features</li>
-        <li>Trading: <a href="https://lingao.ca/trading">an automatic trading system (the spoken) and development of strategies (the unspoken).</a></li>
+        <li>Trading: <a href="https://lingao.ca/trading">an automatic trading system (the spoken) and strategy development (the unspoken).</a></li>
 </ul>
 
 <h2>Contact</h2>
