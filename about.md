@@ -24,8 +24,8 @@ layout: page
 
 <ul>
 	<li>PhD project: <a href="https://lingao.ca/phd/">uncertainty quantification for linear/nonlinear stochastic PDE/ODE</a></li>
-        <li>Intern project: information theoretical based feature engineering for categorical features</a></li>
-        <li>Trading system: <a href="https://lingao.ca/trading">an automatic trading system designed to analyze real-time market data, generate trading signals and handle orders. Built on Matlab Trading Toolbox and Interactive Brokers API.</a></li>
+        <li>Intern project: information theoretical based feature engineering for categorical features</li>
+        <li>Trading system: <a href="https://lingao.ca/trading">an automatic trading system designed to analyze real-time market data, generate trading signals and handle orders.</a></li>
 </ul>
 
 <h2>Contact</h2>
