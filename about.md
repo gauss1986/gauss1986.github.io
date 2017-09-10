@@ -23,9 +23,9 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li>PhD project: <a href="https://github.com/gauss1986/UQTK">uncertainty quantification for linear/nonlinear stochastic PDE/ODE</a></li>
-        <li>Intern project: <a href="https://github.com/gauss1986/categorical">information theoretical based feature engineering for categorical features</a></li>
-        <li>Trading system: <a href="https://github.com/gauss1986/KERDOS">an automatic trading system designed to analyze real-time market data, generate trading signals and handle orders. Built on Matlab Trading Toolbox and Interactive Brokers API.</a></li>
+	<li>PhD project: <a href="https://lingao.ca/phd/">uncertainty quantification for linear/nonlinear stochastic PDE/ODE</a></li>
+        <li>Intern project: information theoretical based feature engineering for categorical features</a></li>
+        <li>Trading system: <a href="https://lingao.ca/trading">an automatic trading system designed to analyze real-time market data, generate trading signals and handle orders. Built on Matlab Trading Toolbox and Interactive Brokers API.</a></li>
 </ul>
 
 <h2>Contact</h2>
