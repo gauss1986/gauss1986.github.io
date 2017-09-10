@@ -24,7 +24,7 @@ layout: page
 
 <ul>
 	<li>PhD project: <a href="https://lingao.ca/phd/">uncertainty quantification for linear/nonlinear stochastic PDE/ODE</a></li>
-        <li>Intern project at Apple: explore feature engineering options for categorical features. Applied to a few anti-fraud lines of businesses.</li>
+        <li>Intern project at Apple: explore feature engineering options for categorical features. Designed to tackle anti-fraud tasks, but general enough for any data sets that have categorical features.</li>
         <li>Trading: <a href="https://lingao.ca/trading">an automatic trading system (the spoken) and strategy development (the unspoken).</a></li>
 </ul>
 
