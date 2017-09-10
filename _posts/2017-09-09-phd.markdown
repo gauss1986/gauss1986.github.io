@@ -1,8 +1,8 @@
 ---
-title: "Uncertainty quantification for linear/nonlinear stochastic ODE"
+title: "PhD project: uncertainty quantification for linear/nonlinear stochastic ODE"
 layout: post
 date: 2017-09-09 12:10
-tag: PhD
+tag: projects
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
@@ -30,8 +30,8 @@ The C++ code used during this rearch is available [here](https://github.com/gaus
 
 What is the impact of this research?
 
-- Make stochastic modeling of large systems feasible
+- Make stochastic modeling of large dynamic systems feasible
 - Non-linear is not (far) more complicated than linear systems
-- Both translates to: tackle problems that it was not possible before. In aerocraft design, that means more aggressive fuselage design (\$\$\$). In quantitative finance, that means finding alpha from an angle no one else can (\$\$\$\$).
+- Both translates to: tackle problems that was not possible before. In aerocraft design, that means more aggressive fuselage design (\$\$\$). In quantitative finance, that means finding alpha from an angle no one else can (\$\$\$\$).
 
 
