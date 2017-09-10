@@ -27,3 +27,10 @@ layout: page
         <li>Intern project: <a href="https://github.com/gauss1986/categorical">information theoretical based feature engineering for categorical features</a></li>
         <li>Trading system: <a href="https://github.com/gauss1986/KERDOS">an automatic trading system designed to analyze real-time market data, generate trading signals and handle orders. Built on Matlab Trading Toolbox and Interactive Brokers API.</a></li>
 </ul>
+
+<h2>Contact</h2>
+
+<ul>
+        <li>Email: lingao.gao@mail.utoronto.ca </li>
+	<li>Phone: 647-894-7957 (Canada) / 512-902-0030 (US) </li>
+</ul>

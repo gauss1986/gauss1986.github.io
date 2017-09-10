@@ -1,35 +1,37 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Uncertainty quantification for linear/nonlinear stochastic ODE"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2017-09-09 12:10
+tag: PhD
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+hidden: false # don't count this post in blog pagination
+description: "Lin's PhD research topic"
 category: project
-author: johndoe
+author: Lin Gao
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+Before we dive into the details on how great is the algorithm I developed in [Prof. Nair](http://arrow.utias.utoronto.ca/~pbn/)'s group to deal with stochastic linear/nonlinear differential equations, let's make sure these terms make sense to you:
+ 
+[Differential equations](https://en.wikipedia.org/wiki/Differential_equation): very common type of governing equation for mathematical and physical systems, take the form of Partial Differential Equations ([PDE](https://en.wikipedia.org/wiki/Partial_differential_equation)) or Ordinary Differential Equations ([ODE](https://en.wikipedia.org/wiki/Ordinary_differential_equation)). In fluid dynamics they may take the form of Navier–Stokes equations, in economics it may be the Black–Scholes equation, etc.
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+ [Stochastic](https://en.wikipedia.org/wiki/Stochastic): fancy ways to say random. A stochastic differential equation typically has random excitation, and possibly has random boundary conditions, initial conditions and/or coefficients. Stochastic differential equations are more realistic modeling of systems: think of the fuselage under air pressure that can only be estimated to a range, or the constantly changing volatility in the Black-Scholes equation. Stochastic differential equations are harder to solve, of course, compare to their deterministic counter-parties. My work is to deal with those already-hard-to-solve differential equations, in its more challenging stochastic form. We are talking about millions of degree-of-freedom here, so typically curse-of-dimensionality kicks in and needless to say, Monte Carlo is too slow to be useful. The AAPG scheme I developed would decouple the original high-dimensional stochastic system into smaller, independent low-dimensional deterministic systems that can be solved in parallel.  
 
----
+ [Linear differential equations](https://en.wikipedia.org/wiki/Linear_differential_equation): the easier ones (compare to non-linear differential equations) to solve. In fact, one would be happy to handle single degree-of-freedom stochastic non-linear differential equations. Realistic systems with millions of degree-of-freedom would be mission impossible. The AAPG scheme I worked on offers the potential to tackle such stochastic non-linear differential equations efficiently.  
 
-What has inside?
+The details of AAPG scheme is best summarized in this paper:
+> **Lin Gao**, Christophe Audouze, Prasanth B. Nair (2015) Anchored analysis of variance Petrov-Galerkin projection schemes for linear stochastic structural dynamics. [Proc. R. Soc. A 471(2182)](http://rspa.royalsocietypublishing.org/content/471/2182/20150023) [PDF](RSPA_LinGao.pdf)
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+The C++ code used during this rearch is available [here](https://github.com/gauss1986/UQTK).
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+What is the impact of this research?
+
+- Make stochastic modeling of large systems feasible
+- Non-linear is not (far) more complicated than linear systems
+- Both translates to: tackle problems that it was not possible before. In aerocraft design, that means more aggressive fuselage design (\$\$\$). In quantitative finance, that means finding alpha from an angle no one else can (\$\$\$\$).
+
+
