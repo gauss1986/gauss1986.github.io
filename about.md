@@ -6,7 +6,7 @@ layout: page
 
 <p>Lin Gao is a PhD student in the group of <a href="http://arrow.utias.utoronto.ca/~pbn/">Computational Modeling and Design Optimization Under Uncertainty</a> at University of Toronto <a href="http://www.utias.utoronto.ca/">Institute for Aerospace Studies</a>, scheduled to graduate in 2017.</p>
 
-<p>Six years of academic training made him an experienced algorithm researcher and seasoned programmer in Matlab/C++/R/Python. Lucky to be in the era of data, this hybrid skill set - with some creativity added - seems benefical to a broad range of business, including the two he explored recently: quantitative finance and anti-fraud.</p>
+<p>Six years of academic training made him an experienced algorithm researcher and seasoned programmer in Matlab/C++/R/Python. Lucky to be in the era of data, this hybrid skill set - with some creativity added - seems to be benefical to a broad range of business, including the two he explored recently: quantitative finance and anti-fraud.</p>
 
 <p>Lin is interested in any job involving real-life big data. Typically these job has the title of quantitative researcher, machine learning researcher or data scientist. It would be better if the outcome of the job has direct business impact.</p>
 
