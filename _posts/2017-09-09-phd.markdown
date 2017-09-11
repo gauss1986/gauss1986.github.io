@@ -22,7 +22,7 @@ Before we dive into the details on how great is the algorithm I developed in [Pr
  [Linear differential equations](https://en.wikipedia.org/wiki/Linear_differential_equation): the easier ones (compare to non-linear differential equations) to solve. In fact, one would be happy to handle single degree-of-freedom stochastic non-linear differential equations. Realistic systems with millions of degree-of-freedom would be mission impossible. The AAPG scheme I worked on offers the potential to tackle such stochastic non-linear differential equations efficiently.  
 
 The details of AAPG scheme is best summarized in this paper:
-> **Lin Gao**, Christophe Audouze, Prasanth B. Nair (2015) Anchored analysis of variance Petrov-Galerkin projection schemes for linear stochastic structural dynamics. [Proc. R. Soc. A 471(2182)](http://rspa.royalsocietypublishing.org/content/471/2182/20150023) [PDF](assets/RSPA_LinGao.pdf)
+> **Lin Gao**, Christophe Audouze, Prasanth B. Nair (2015) Anchored analysis of variance Petrov-Galerkin projection schemes for linear stochastic structural dynamics. [Proc. R. Soc. A 471(2182)](http://rspa.royalsocietypublishing.org/content/471/2182/20150023) [PDF]({{ site.url }}/assets/RSPA_LinGao.pdf)
 
 The C++ code used during this rearch is available [here](https://github.com/gauss1986/UQTK).
 
