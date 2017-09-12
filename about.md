@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lin Gao is a PhD student in the group of <a href="http://arrow.utias.utoronto.ca/~pbn/">Computational Modeling and Design Optimization Under Uncertainty</a> at University of Toronto <a href="http://www.utias.utoronto.ca/">Institute for Aerospace Studies</a>, scheduled to graduate in 2017.</p>
+<p>Lin Gao is a Ph.D. student in the group of <a href="http://arrow.utias.utoronto.ca/~pbn/">Computational Modeling and Design Optimization Under Uncertainty</a> at University of Toronto <a href="http://www.utias.utoronto.ca/">Institute for Aerospace Studies</a>, scheduled to graduate in 2017.</p>
 
-<p>Six years of academic training made him an experienced algorithm researcher and seasoned programmer in Matlab/C++/R/Python. Lucky to be in the era of data, this hybrid skill set - with some creativity added - seems to be benefical to a broad range of business, including the two he explored recently: quantitative finance and anti-fraud.</p>
+<p>Six years of academic training made him an experienced algorithm researcher and seasoned programmer in Matlab/C++/R/Python. Lucky to be in the era of data, this hybrid skill set - with some creativity added - seems to be beneficial to a broad range of business, including the two he explored recently: quantitative finance and anti-fraud.</p>
 
 <p>Lin is interested in any job involving real-life big data. Typically these job has the title of quantitative researcher, machine learning researcher or data scientist. It would be better if the outcome of the job has direct business impact.</p>
 
@@ -23,7 +23,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li>PhD project: <a href="https://lingao.ca/phd/">uncertainty quantification for linear/nonlinear stochastic PDE/ODE</a></li>
+	<li>Ph.D. project: <a href="https://lingao.ca/phd/">uncertainty quantification for linear/nonlinear stochastic PDE/ODE</a></li>
         <li>Intern project at Apple: explore feature engineering options for categorical features. Designed to tackle anti-fraud tasks, but general enough for any data sets that have categorical features.</li>
         <li>Trading: <a href="https://lingao.ca/trading">an automatic trading system (the spoken) and strategy development (the unspoken).</a></li>
 </ul>
