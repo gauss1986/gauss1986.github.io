@@ -19,7 +19,7 @@ Before we dive into the details on how great is the algorithm I developed in [Pr
 
  [Stochastic](https://en.wikipedia.org/wiki/Stochastic): fancy ways to say random. A stochastic differential equation typically has random excitation and possibly random boundary conditions, initial conditions and/or coefficients. Stochastic differential equations are more realistic modeling of systems: think about the fuselage under air pressure that can only be estimated to a range, or the constantly changing volatility in the Black-Scholes equation. Stochastic differential equations are harder to solve compare to their deterministic counter-parties. My work is to deal with those already-hard-to-solve differential equations, in its more challenging stochastic form. For large systems with millions of degrees-of-freedom, curse-of-dimensionality kicks in and Monte Carlo is too slow to be useful. The AAPG scheme I developed would decouple the original high-dimensional stochastic system into smaller, independent low-dimensional deterministic systems that can be solved in parallel.  
 
- [Linear differential equations](https://en.wikipedia.org/wiki/Linear_differential_equation): the easier ones (compare to non-linear differential equations) to solve. In fact, one would be happy to handle single degree-of-freedom stochastic non-linear differential equations. Realistic systems with millions of degree-of-freedom is considered mission impossible. The AAPG scheme offers the potential to tackle large stochastic non-linear differential equations efficiently.  
+ [Linear differential equations](https://en.wikipedia.org/wiki/Linear_differential_equation): the easier ones (compare to non-linear differential equations) to solve. In fact, one would be happy to handle single degree-of-freedom stochastic non-linear differential equations. Realistic systems with millions of degree-of-freedom are generally considered mission impossible. The AAPG scheme offers the potential to tackle large stochastic non-linear differential equations efficiently.  
 
 The details of AAPG scheme is best summarized in this paper:
 > **Lin Gao**, Christophe Audouze, Prasanth B. Nair (2015) Anchored analysis of variance Petrov-Galerkin projection schemes for linear stochastic structural dynamics. [Proc. R. Soc. A 471(2182)](http://rspa.royalsocietypublishing.org/content/471/2182/20150023) [PDF](https://gauss1986.github.io/assets/RSPA_LinGao.pdf)
@@ -30,8 +30,8 @@ The C++ code used during this research is available [here](https://github.com/ga
 
 What is the impact of this research?
 
-- Make stochastic modeling of large dynamic systems feasible
-- Non-linear is not (far) more complicated than linear systems
-- Both translate to tackle problems that were not possible before. In aircraft design, that means more aggressive fuselage design (\$\$\$). In quantitative finance, that means finding alpha from an angle no one else can (\$\$\$\$).
+- Making stochastic modeling of large dynamic systems feasible
+- Not limit to linear systems
+- This results in more accurate modeling of dynamic systems, especially when it is large and nonlinear. In aircraft design, it means more aggressive fuselage design. In quantitative finance, it means finding alpha from a new angle.
 
 
