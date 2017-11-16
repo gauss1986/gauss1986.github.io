@@ -25,6 +25,7 @@ The details of AAPG scheme is best summarized in this paper:
 > **Lin Gao**, Christophe Audouze, Prasanth B. Nair (2015) Anchored analysis of variance Petrov-Galerkin projection schemes for linear stochastic structural dynamics. [Proc. R. Soc. A 471(2182)](http://rspa.royalsocietypublishing.org/content/471/2182/20150023) [PDF](https://gauss1986.github.io/assets/RSPA_LinGao.pdf)
 
 The Matlab code used during this research is available [here](https://github.com/gauss1986/UQ_matlab).
+
 The C++ code used during this research is available [here](https://github.com/gauss1986/UQTK).
 
 ---
