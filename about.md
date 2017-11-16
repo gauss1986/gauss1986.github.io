@@ -32,5 +32,5 @@ layout: page
 
 <ul>
         <li>Email: lingao.gao@mail.utoronto.ca </li>
-	<li>Phone: 647-894-7957 (Canada) / 512-902-0030 (US) </li>
+	<li>Phone: 647-894-7957 (Canada)</li>
 </ul>
