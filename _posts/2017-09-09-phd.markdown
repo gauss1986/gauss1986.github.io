@@ -13,7 +13,7 @@ author: Lin Gao
 externalLink: false
 ---
 
-Before we dive into the details on how great is the algorithm I developed in [Prof. Nair](http://arrow.utias.utoronto.ca/~pbn/)'s group to deal with stochastic linear/nonlinear differential equations, let's make sure these terms make sense to you:
+This post will NOT cover the details of the algorithms I developed in [Prof. Nair](http://arrow.utias.utoronto.ca/~pbn/)'s group. Instead, it will cover what problem is solved, why it is an important problem to solve and how different is the AAPG scheme I developed. Link to a journal article (with detailed formulation and discussions) and code used for numerical studies will be included. 
  
 [Differential equations](https://en.wikipedia.org/wiki/Differential_equation): very common type of governing equation for mathematical and physical systems, take the form of Partial Differential Equations ([PDE](https://en.wikipedia.org/wiki/Partial_differential_equation)) or Ordinary Differential Equations ([ODE](https://en.wikipedia.org/wiki/Ordinary_differential_equation)). In fluid dynamics they may take the form of Navier–Stokes equations, in economics it may be the Black–Scholes equation, etc.
 
@@ -21,19 +21,17 @@ Before we dive into the details on how great is the algorithm I developed in [Pr
 
  [Linear differential equations](https://en.wikipedia.org/wiki/Linear_differential_equation): the easier ones (compare to non-linear differential equations) to solve. In fact, one would be happy to handle single degree-of-freedom stochastic non-linear differential equations. Realistic systems with millions of degree-of-freedom are generally considered mission impossible. The AAPG scheme offers the potential to tackle large stochastic non-linear differential equations efficiently.  
 
-The details of AAPG scheme is best summarized in this paper:
+Details of the AAPG scheme is best summarized in the following paper:
 > **Lin Gao**, Christophe Audouze, Prasanth B. Nair (2015) Anchored analysis of variance Petrov-Galerkin projection schemes for linear stochastic structural dynamics. [Proc. R. Soc. A 471(2182)](http://rspa.royalsocietypublishing.org/content/471/2182/20150023) [PDF](https://gauss1986.github.io/assets/RSPA_LinGao.pdf)
 
-The Matlab code used during this research is available [here](https://github.com/gauss1986/UQ_matlab).
-
-The C++ code used during this research is available [here](https://github.com/gauss1986/UQTK).
+The above paper includes prototype of the AAPG scheme that was built in Matlab. Large scale numerical studies were later conducted in c++. These code can be found here: [Matlab](https://github.com/gauss1986/UQ_matlab), [c++](https://github.com/gauss1986/UQTK).
 
 ---
 
 What is the impact of this research?
 
-- Making stochastic modeling of large dynamic systems feasible
-- Not limit to linear systems
-- This results in more accurate modeling of dynamic systems, especially when it is large and nonlinear. In aircraft design, it means more aggressive fuselage design. In quantitative finance, it means finding alpha from a new angle.
+- Making stochastic modeling of large dynamic systems feasible.
+- No limitation on linearity.
+- Promote more accurate and realistic modeling of (large and nonlinear) dynamic systems under uncertainty. In aircraft design, it means more aggressive fuselage design. In quantitative finance, it means finding alpha from a new angle.
 
 
