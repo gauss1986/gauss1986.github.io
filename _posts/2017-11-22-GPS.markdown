@@ -1,5 +1,5 @@
 ---
-title: "Entrepreneurship idea 1: navigation using GPS+video"
+title: "Augmented reality navigation using GPS and visual signals"
 layout: post
 date: 2017-11-22 12:10
 tag: projects
@@ -13,10 +13,23 @@ author: Lin Gao
 externalLink: false
 ---
 
-baba
+The augmented reality kit (ARKit) was released with iOS11 together with iPhone 8 and iPhone X, and here is an idea to leverage it to make a better navigation APP by combining GPS signal and live video streaming from the built-in camera.                             
 
+There isn't much difference between a Garmin car GPS and Google Maps in your smartphone today, in the way they rely (mostly) on the GPS signal to pin down your location. It is true that smartphones can use your LTE bases' location and even wifi routers' location (through its IP presumably) to pin down your location in case you have tried to use Google Maps when traveling overseas. What often bothers me and a lot of others is the accuracy. Have you drove to a new city and take the wrong exit when there was a roundabout or a few nearby exits on a highway? The current method to locate your smartphone using the GPS/LTE/wifi signal has accuracy up to a few meters horizontally and much worse vertically, which is not that satisfying for navigation purposes when you are driving at 30 m/s (108 km/hour). Even when you are driving in your hometown and want to check the traffic on a highway using Google Maps, it is hard to tell the differences in express vs collector because it is hard for Google to decide which lane is a user driving. The same applies when you drive on multilevel streets, it is hard to decide which level you are driving because of the poor vertical accuracy.                        
 
+Now every modern day smartphone has built-in cameras and its quality becomes better and better every year. How about using some machine learning tools to process and extract the traffic information (such as from a traffic board) from live video streaming collected using the built-in cameras, add it to GPS signal and put an arrow on top of reality video streaming to guild you to the right exit? 
 
+What we need:
+1. A machine learning (ML) package to process live video and extract traffic related info. It has to be efficient enough to run on a smartphone instead of clusters of GPUs.
+2. The base map, which is available through Google's API.
+3. A good charging base that provides unblocked view to smartphones.
+
+Business model:
+A cool navigation APP built using the ARKit.
+
+Business potential:
+1. A camera in car may be huge to autonomous driving.
+2. If connected, the camera could generate valuable data (for an example, Uber driver can share the camera and passenger can guild and find the car easily).
 
 ---
 
