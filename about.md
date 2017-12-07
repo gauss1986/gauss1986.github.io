@@ -35,7 +35,11 @@ layout: page
 
 	<li> Finance: General interest to trade Bitcoin, Gold, S&P 500, VIX, etc. </li>
 
+<<<<<<< HEAD
 	<li> Life: Used to be more aggressive and fancy out-door activities and now routinely biking and rock climbing indoor, after a life-threatening experience. </li>
+=======
+	<li>Life: Used to be more aggressive and fancy outdoor activities and now routinely biking and rock climbing indoor, after a life-threatening experience. </li>
+>>>>>>> 0a96e0cdf1937b1b1e79a7d6268cc7e228705f19
 
 </ul>
 
