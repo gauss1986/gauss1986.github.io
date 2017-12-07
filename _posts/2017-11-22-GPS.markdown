@@ -1,0 +1,24 @@
+---
+title: "Entrepreneurship idea 1: navigation using GPS+video"
+layout: post
+date: 2017-11-22 12:10
+tag: projects
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "Idea 1"
+category: project
+author: Lin Gao
+externalLink: false
+---
+
+baba
+
+
+
+
+---
+
+
+
