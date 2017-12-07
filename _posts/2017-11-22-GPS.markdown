@@ -28,8 +28,8 @@ Business model:
 A cool navigation APP built using the ARKit.
 
 Business potential:
-1. A camera in car may be huge to autonomous driving.
-2. If connected, the camera could generate valuable data (for an example, Uber driver can share the camera and passenger can guild and find the car easily).
+1. A camera in car may be huge to autonomous driving, social media and shake the world of dash cam.
+2. If connected, the camera could generate valuable data (for an example, Uber driver can share the camera and passenger can guide and find the car easily).
 
 ---
 
