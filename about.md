@@ -6,7 +6,7 @@ layout: page
 
 <p>Lin Gao is an experienced data scientist, machine learning specialist and rock climber. He received Ph.D. from the group of <a href="http://arrow.utias.utoronto.ca/~pbn/">Computational Modeling and Design Optimization Under Uncertainty</a> at University of Toronto <a href="http://www.utias.utoronto.ca/">Institute for Aerospace Studies</a> in 2018.</p>
 
-<p>Six years of academic training made him an experienced algorithm researcher and seasoned programmer in Matlab/C++/R/Python. Lucky to be in the era of data, this hybrid skill set - with some creativity added - seems to be beneficial to a broad range of business, including the two he explored recently: quantitative finance and anti-fraud.</p>
+<p>Years of academic training and working experience made him an algorithm researcher, programmer in Matlab/C++ and swiss-army-knife data scientist. </p>
 
 <p>Lin is interested job opportunities related to real-life datasets. Typically these jobs have the title of quantitative researcher, machine learning researcher or data scientist. It would be better if the outcome of the work has direct business impact.</p>
 
@@ -14,6 +14,7 @@ layout: page
 
 <ul class="skill-list"> 
         <li>Python (Scikit-learn, H2o)</li>
+		<li>Neo4j (graph database)</li>
 		<li>SQL</li>
 		<li>C++</li>
         <li>R</li>
@@ -42,6 +43,6 @@ layout: page
 <h2>Contact</h2>
 
 <ul>
-        <li>Email: lingao.gao@mail.utoronto.ca </li>
+        <li>Email: q30327@gmail.com </li>
 	<li>Phone: +1 647-894-7957</li>
 </ul>
