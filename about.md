@@ -11,7 +11,7 @@ layout: page
 	<li> Data scientist at Manulife Financial / John Hancock.</li>
 	<li> Machine learning sepcialist at Royal Dutch Shell.</li>
 	<li> Data scientist intern at Apple Inc.</li>
-	<li> Quantitative Analyst at Bluewater Technologies Inc.</li>
+	<li> Quantitative analyst at Bluewater Technologies Inc.</li>
 	<li> Full-stack developer at Vulcan Investment Inc.</li>
 </ul>
 
