@@ -18,7 +18,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list"> 
-        <li>Python (Scikit-learn, H2o)</li>
+        <li>Python</li>
 		<li>Neo4j (graph database)</li>
 		<li>SQL</li>
 		<li>C++</li>
