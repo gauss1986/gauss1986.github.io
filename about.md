@@ -4,7 +4,16 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lin Gao is an algorithm researcher and swiss-army-knife data scientist. He received Ph.D. from the group of <a href="http://arrow.utias.utoronto.ca/~pbn/">Computational Modeling and Design Optimization Under Uncertainty</a> at University of Toronto <a href="http://www.utias.utoronto.ca/">Institute for Aerospace Studies</a> in 2018.</p>
+<p>Lin Gao is an algorithm researcher and swiss-army-knife data scientist. He received Ph.D. from the group of <a href="http://arrow.utias.utoronto.ca/~pbn/">Computational Modeling and Design Optimization Under Uncertainty</a> at University of Toronto in 2018.</p>
+
+<h2>Experience</h2>
+<ul>
+	<li> Data scientist at Manulife Financial / John Hancock.</li>
+	<li> Machine learning sepcialist at Royal Dutch Shell.</li>
+	<li> Data scientist intern at Apple Inc.</li>
+	<li> Quantitative Analyst at Bluewater Technologies Inc.</li>
+	<li> Full-stack developer at Vulcan Investment Inc.</li>
+</ul>
 
 <h2>Skills</h2>
 
@@ -28,9 +37,9 @@ layout: page
 
 <h2>Interest</h2>
 <ul>
-	<li> Engineering: Closely watching developements in Internet of Things (IoT) technologies and working on side projects incorporating wireless charing, open-source speach recognication engine and low-cost satellite Machine-to-Machine communications. </li> 
-	<li> Finance: General interest to trade Bitcoin, Gold, S&P 500, VIX, etc. </li>
-	<li> Life: Used to fancy out-door activities and now routinely biking and rock climbing indoor. </li>
+	<li> Engineering: Internet of Things (IoT), open-source speach recognication engine, low-cost satellite Machine-to-Machine communications, etc. </li> 
+	<li> Finance: trading Bitcoin, Gold, S&P 500, VIX, etc. </li>
+	<li> Life: biking and rock climbing. </li>
 
 </ul>
 
