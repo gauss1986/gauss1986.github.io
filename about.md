@@ -11,14 +11,14 @@ layout: page
 	<li> Data scientist at Manulife Financial / John Hancock.</li>
 	<li> Machine learning sepcialist at Royal Dutch Shell.</li>
 	<li> Data scientist intern at Apple Inc.</li>
-	<li> Quantitative Analyst at Bluewater Technologies Inc.</li>
+	<li> Quantitative analyst at Bluewater Technologies Inc.</li>
 	<li> Full-stack developer at Vulcan Investment Inc.</li>
 </ul>
 
 <h2>Skills</h2>
 
 <ul class="skill-list"> 
-        <li>Python (Scikit-learn, H2o)</li>
+        <li>Python</li>
 		<li>Neo4j (graph database)</li>
 		<li>SQL</li>
 		<li>C++</li>
